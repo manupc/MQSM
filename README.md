@@ -4,7 +4,7 @@ Source code for the paper: A theoretical framework for compact and efficient qua
 
 - *Python folder*: Basic/naive very short/compact implementation of MQGT and MQSM, with the examples of the paper.
 
-**HOW TO USE IT: ** Just one the Jupyter Notebook and run.
+**HOW TO USE IT: ** Just open the Jupyter Notebook and run.
 
 - *C++20 Folder*: Optimized C++20 implementation using appropiate data structures to represent Finite State Machines, MQSMs and MQGTs. It also includes an interface to ease the creation of quantum circuits.
 
